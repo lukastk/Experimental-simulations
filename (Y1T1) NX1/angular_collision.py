@@ -169,4 +169,3 @@ while True:
         b.update(blist, dt)
         
     # The rate of the program
-    rate(rt)
